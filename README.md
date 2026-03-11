@@ -10,8 +10,6 @@ This project was built strictly using model-driven engineering principles:
 
 <img src="https://github.com/user-attachments/assets/3b3a63b8-756a-429c-ab91-f358ecb6c5c4" alt="UML Diagram" width="100%">
 
-*Insert a screenshot of your UML diagram or app UI here by dragging an image into the GitHub editor.*
-
 ## How to Run the Application
 
 You can run the compiled application directly on your machine without needing to build the source code.
