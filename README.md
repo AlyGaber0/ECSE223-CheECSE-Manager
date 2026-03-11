@@ -10,7 +10,8 @@ This project was built strictly using model-driven engineering principles:
 * **State Machines:** Robot sorting logic and delivery sequences are governed by strict state-machine rules to prevent edge-case failures.
 * **Java Swing/JavaFX:** The frontend interface allowing users to track inventory and manage sorting routines.
 
-![UML Diagram](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/3b3a63b8-756a-429c-ab91-f358ecb6c5c4" />)
+<img src="https://github.com/user-attachments/assets/3b3a63b8-756a-429c-ab91-f358ecb6c5c4" alt="UML Diagram" width="100%">
+
 *Insert a screenshot of your UML diagram or app UI here by dragging an image into the GitHub editor.*
 
 ## 🚀 How to Run the Application
