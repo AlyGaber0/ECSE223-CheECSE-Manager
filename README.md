@@ -2,9 +2,7 @@
 
 A Java-based application for managing and sorting cheese wheels, developed as the capstone project for McGill University's ECSE 223 (Model-Based Programming) course. 
 
-*Note: The source code for this project is kept in a private repository to comply with university academic integrity policies. The application architecture and runnable UI are provided below.*
-
-## 📐 Project Architecture
+## Project Architecture
 This project was built strictly using model-driven engineering principles:
 * **UML & Umple:** The entire system architecture was first designed using Umple state machines and UML class diagrams.
 * **State Machines:** Robot sorting logic and delivery sequences are governed by strict state-machine rules to prevent edge-case failures.
@@ -14,7 +12,7 @@ This project was built strictly using model-driven engineering principles:
 
 *Insert a screenshot of your UML diagram or app UI here by dragging an image into the GitHub editor.*
 
-## 🚀 How to Run the Application
+## How to Run the Application
 
 You can run the compiled application directly on your machine without needing to build the source code.
 
